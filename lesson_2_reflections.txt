@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initializing creates a .git hidden directory which will contain repository and version information. You need to do this to distinguish a regular directory from a repository and be able to use version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is like a holding pen that lets you review your potential commits before you actually commit. It also allows you to 'group' files together that you deem connected or related.
