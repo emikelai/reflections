@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 If you have an open source project you want to share, a remote repository is a good idea.  If you have code that you worked on and you want to look at online, pushing it onto a remote repository is also a good idea. You can also share your work online to demonstrate your work to potential employers or colleagues.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+You could want full control of your local and not pull in any changes just yet. If Git automatically pulls for you and you might not expect it, this could cause confusion.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
