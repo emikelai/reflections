@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+If you have an open source project you want to share, a remote repository is a good idea.  If you have code that you worked on and you want to look at online, pushing it onto a remote repository is also a good idea. You can also share your work online to demonstrate your work to potential employers or colleagues.
+
