@@ -10,3 +10,8 @@ A clone is a copy of a repository from either a local repository or a remote rep
 A fork is an operation in GitHub that allows you to copy a repository directly into your GitHub account. You can then clone it into your local machine or make changes directly in GitHub.
 You would fork instead of clone if you want to save the step of cloning someone's repository and then committing and pushing it back into your account. Forking also allows users to see where the original repository was and also to give credit to the original owner.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you are offline and make changes to your local clone of the remote repository, you can view how many commits ahead of the remote you are.
+
+
+
