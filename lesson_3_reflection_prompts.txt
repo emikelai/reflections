@@ -13,5 +13,6 @@ You would fork instead of clone if you want to save the step of cloning someone'
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you are offline and make changes to your local clone of the remote repository, you can view how many commits ahead of the remote you are.
 
-
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would most likely have more meetings, or ensure that each author only modifies or exclusively owns files that no one else can modify. If a file needs modification by both users, I would find a way to 'lock' that file or have a system where there is still a global owner that would have control of that file.  It would be easier in that perhaps the separation of work is more well defined since each author exclusively owns a file or set of files. It would be harder because there is no revision control that can keep track of changes.
 
